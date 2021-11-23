@@ -1,1 +1,1 @@
-# Regex_solutions__Hackerrank
+# Regex_solutions
